@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:SensorBoard-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -14,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Module:Arduino_Nano_v3.x A1
+L SensorBoard-rescue:Arduino_Nano_v3.x-MCU_Module A1
 U 1 1 5E27973B
 P 4300 4400
 F 0 "A1" V 4254 3357 50  0000 R CNN
