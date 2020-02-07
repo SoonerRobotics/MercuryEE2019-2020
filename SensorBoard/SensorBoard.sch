@@ -91,29 +91,11 @@ Wire Wire Line
 	5650 3450 4750 3450
 Connection ~ 4750 3450
 Wire Wire Line
-	3550 3300 3550 3800
-Wire Wire Line
-	3550 3800 4700 3800
-Wire Wire Line
-	4700 3800 4700 3900
-Wire Wire Line
 	3650 3300 3650 3650
 Wire Wire Line
 	3650 3650 4600 3650
 Wire Wire Line
 	4600 3650 4600 3900
-Wire Wire Line
-	4550 3300 4550 3850
-Wire Wire Line
-	4550 3850 4500 3850
-Wire Wire Line
-	4500 3850 4500 3900
-Wire Wire Line
-	4650 3300 4650 3750
-Wire Wire Line
-	4650 3750 4400 3750
-Wire Wire Line
-	4400 3750 4400 3900
 Wire Wire Line
 	5450 3300 5450 3600
 Wire Wire Line
@@ -243,9 +225,27 @@ NoConn ~ 5300 4500
 NoConn ~ 4900 3900
 NoConn ~ 4800 3900
 NoConn ~ 4100 3900
-NoConn ~ 4000 3900
 NoConn ~ 3900 3900
 NoConn ~ 3800 3900
 NoConn ~ 3700 3900
 NoConn ~ 3600 3900
+Wire Wire Line
+	4400 3900 4400 3400
+Wire Wire Line
+	4400 3400 4550 3400
+Wire Wire Line
+	4550 3400 4550 3300
+Wire Wire Line
+	4500 3900 4500 3475
+Wire Wire Line
+	4500 3475 4650 3475
+Wire Wire Line
+	4650 3475 4650 3300
+Wire Wire Line
+	3550 3300 3550 3775
+Wire Wire Line
+	3550 3775 4000 3775
+Wire Wire Line
+	4000 3775 4000 3900
+NoConn ~ 4700 3900
 $EndSCHEMATC
