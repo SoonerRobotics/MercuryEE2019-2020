@@ -11,6 +11,10 @@ A little guide for general PCB Design
 
 https://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf 
 
+### Part Search
+https://www.ultralibrarian.com/
+https://www.digikey.com/
+
 ### Setting Good Design Rules
 The defult design rules are trash on KiCad this website helps you make them not trash.
 
@@ -32,6 +36,7 @@ A calculator for all PCB related numbers, in the wise words of Lance Bantoto:
 calculates everything
 
 http://www.saturnpcb.com/pcb_toolkit/
+
 ### Some git Resources 
 **If you dont know git, _learn it_** (or just the basics)
 
