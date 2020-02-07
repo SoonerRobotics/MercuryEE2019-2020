@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "New folder")(type KiCad)(uri "${KIPRJMOD}/New folder")(options "")(descr ""))
+)
