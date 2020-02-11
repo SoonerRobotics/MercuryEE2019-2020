@@ -1,51 +1,23 @@
 # MercuryEE2019-2020
-## Electrical Resources 
-One place for the various resources avalible for Mercury EE, Its time for us to **_git gud_**
+## Electrical Team Projects
+Our stuff needs to **_git gud_**
 
-### PCB Design Tutorials
-Great tutorial to learn the basics of KiCad and how to get started.
+## PCBs
 
-https://www.youtube.com/watch?v=BVhWh3AsXQs&list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn&index=1
+### Arduino Breakout Board (Control)
+Designed to house an arduino nano and connect it to the the an IMU, motor controller, and  motor encoders. It will have the following functions.
 
-A little guide for general PCB Design 
+*The board will have the arduino nano with it routed to the BNO-055 IMU that will give back orientation data of the robot. 
+*The arduino nano will also send data to the LN293 motor controller. 
+*It will also recieve data from the motor encoders
+### Sensor Board 
+Designed to house an arduino nano and connect it to an IMU and multiple ultrasonic sensors. It will have the following functions.
 
-https://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf 
+*The board will have the arduino nano with it routed to the MPU 9250 IMU that will give back magnatometer data to detect a magnetic field. 
+*The arduino nano will also recieve data from the three ultrasonic senors. 
+### Power Module
+Designed to house a buck converter and a fuse holder 
 
-### Part Search
-https://www.ultralibrarian.com/
-https://www.digikey.com/
-
-### Setting Good Design Rules
-The defult design rules are trash on KiCad this website helps you make them not trash.
-
-https://docs.oshpark.com/design-tools/kicad/
-
-### Electrical Checklist 
-This website is a good guide for for the design process for your schematic and PCB. (Currently working on condensing the checklist)  
-
-
-https://pcbchecklist.com
-### Track Width Chart 
-A chart to refer to for track width
-
-
-http://caxapa.ru/thumbs/251715/currents.pdf
-### Saturn PCB 
-A calculator for all PCB related numbers, in the wise words of Lance Bantoto:
->it's a blessed tool for pcb design,
-calculates everything
-
-http://www.saturnpcb.com/pcb_toolkit/
-
-### Some git Resources 
-**If you dont know git, _learn it_** (or just the basics)
-
-Has the 13 neccesary commands for git 
-
-https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
-
-Cheat Sheet for Git 
-
-https://www.git-tower.com/blog/git-cheat-sheet/
-
-***__Big Thank you to Sarah Brown and Lance Bantoto for the various resources__***
+*the buck converter that will be used is LM2596
+## Parts 
+Eventually add some things 
