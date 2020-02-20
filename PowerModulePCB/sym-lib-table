@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name 64600001003)(type Legacy)(uri ${KIPRJMOD}/ProjectLibrary/64600001003.lib)(options "")(descr ""))
   (lib (name Power_Module-cache)(type Legacy)(uri "${KIPRJMOD}/ProjectLibrary/Power Module-cache.lib")(options "")(descr ""))
+  (lib (name SCR_KiCAD_Lib)(type Legacy)(uri ${KIPRJMOD}/ProjectLibrary/SCR_KiCAD_Lib.lib)(options "")(descr ""))
 )
