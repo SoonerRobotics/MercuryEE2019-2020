@@ -202,16 +202,11 @@ $EndComp
 Wire Wire Line
 	8100 4950 8100 4175
 Wire Wire Line
-	3850 2375 3850 2825
-Connection ~ 3850 2375
-Wire Wire Line
 	3575 1725 7700 1725
 Wire Wire Line
 	3575 2825 3575 1725
 Wire Wire Line
 	3850 2825 3575 2825
-Wire Wire Line
-	3850 2350 3850 2375
 Text Label 8100 5175 3    50   ~ 0
 5V
 Text Label 8000 5175 3    50   ~ 0
@@ -295,4 +290,6 @@ Text Label 6425 1825 3    50   ~ 0
 ENB
 Text Label 6525 1825 3    50   ~ 0
 ENA
+Wire Wire Line
+	3850 2375 3850 2825
 $EndSCHEMATC
