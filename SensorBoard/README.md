@@ -21,7 +21,7 @@ Insert eventually
 
 ## Images
 
-images in the pipeline.
+![Schematic](https://github.com/SoonerRobotics/MercuryEE2019-2020/blob/master/SensorBoard/PDFs/SensorBoardSchPDF.pdf)
 
 ## Designers
 
