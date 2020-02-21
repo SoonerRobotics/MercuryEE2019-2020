@@ -1,9 +1,4 @@
-# Arduino Breakout Board (Control)
-
-Designed to house an arduino nano and connect it to the the an IMU, motor controller, and  motor encoders. It will have the following functions.
-* The board will have the arduino nano with it routed to the BNO-055 IMU that will give back orientation data of the robot. 
-* The arduino nano will also send data to the LN293 motor controller. 
-* It will also recieve data from the motor encoders
+# Arduino Breakout Board
 
 ## Block Diagram
 
@@ -11,7 +6,7 @@ Insert eventually
 
 ## Peripherals
 
-### Microprocesser 
+### Microprocessor 
 
 * [Arduino Nano](https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf)
 
@@ -30,8 +25,6 @@ Insert eventually
 
 
 ## Images
-
-![Schematic](https://github.com/SoonerRobotics/MercuryEE2019-2020/blob/master/ArduinoBreakoutboardControl/PDF/ArduinoBreakoutboardControlSchematic.pdf)
 
 ## Designers
 
