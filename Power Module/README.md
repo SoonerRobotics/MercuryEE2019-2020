@@ -1,8 +1,9 @@
 # Arduino Breakout Board (Control)
 
-Designed to output a lower voltage than given. 
-* Convert 12 volts to 5 volts via a buck converter 
-* Use a 3 amp fuse as a buffer
+Designed to output a lower voltage than given.
+
+* Convert 12V to 5V via the buck converter 
+* 3A fuse 
 
 ## Block Diagram
 
@@ -19,8 +20,6 @@ Insert eventually
 * [LM2956](http://tpelectronic.ir/datasheets/20150123144301750.pdf)
 
 ## Images
-
-![Schematic](https://github.com/SoonerRobotics/MercuryEE2019-2020/blob/master/PowerModulePCB/PowerModulePDF/PowerModuleSchematic.pdf)
 
 ## Designers
 
