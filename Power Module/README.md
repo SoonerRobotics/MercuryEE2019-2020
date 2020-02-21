@@ -28,3 +28,5 @@ Insert eventually
 ## Built With
 
 * [KiCad](https://kicad-pcb.org/) - The PCB design software used
+
+## Errata
