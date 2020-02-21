@@ -19,9 +19,9 @@ Insert eventually
 ## Designers
 
 * **Jorge Exinia** - *PCB design* - [j-exinia](https://github.com/j-exinia)
-* **Olivia Wolfey** -PCB design*
-* **Chris Tran** -PCB design*
-* **Jacob Kim** -PCB design*
+* **Olivia Wolfey** - *PCB design*
+* **Chris Tran** -*PCB design*
+* **Jacob Kim** -*PCB design*
 
 ## Built With
 
