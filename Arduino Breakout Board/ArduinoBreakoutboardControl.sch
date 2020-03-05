@@ -160,17 +160,17 @@ Text Notes 3550 4075 0    50   ~ 0
 GND
 Text Notes 3475 4175 0    50   ~ 0
 Left A
-Text Notes 3550 4875 0    50   ~ 0
+Text Notes 3550 4925 0    50   ~ 0
 ENA
-Text Notes 3550 4975 0    50   ~ 0
+Text Notes 3550 5025 0    50   ~ 0
 ENB
-Text Notes 3550 5075 0    50   ~ 0
+Text Notes 3550 5125 0    50   ~ 0
 IN1
-Text Notes 3550 5175 0    50   ~ 0
+Text Notes 3550 5225 0    50   ~ 0
 IN2
-Text Notes 3550 5275 0    50   ~ 0
+Text Notes 3550 5325 0    50   ~ 0
 IN3
-Text Notes 3550 5375 0    50   ~ 0
+Text Notes 3550 5425 0    50   ~ 0
 IN4
 Text Notes 8375 1575 0    50   ~ 0
 5Vin
@@ -277,13 +277,11 @@ F 3 "" H 4325 3950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3925 3950 4325 3950
-Text GLabel 6375 4450 2    50   Input ~ 0
+Text GLabel 7275 4475 0    50   BiDi ~ 0
 SDA
-Text GLabel 7275 4475 0    50   Input ~ 0
-SDA
-Text GLabel 7275 4575 0    50   Input ~ 0
+Text GLabel 7275 4575 0    50   BiDi ~ 0
 SCL
-Text GLabel 6375 4650 2    50   Input ~ 0
+Text GLabel 6375 4650 2    50   BiDi ~ 0
 SCL
 NoConn ~ 7775 4075
 NoConn ~ 8075 4425
@@ -293,37 +291,37 @@ NoConn ~ 8075 4725
 NoConn ~ 7275 4675
 Text GLabel 3900 4900 2    50   Input ~ 0
 ENA
-Text GLabel 5375 3950 0    50   Input ~ 0
+Text GLabel 5375 3950 0    50   Output ~ 0
 ENA
 Text GLabel 3900 5000 2    50   Input ~ 0
 ENB
-Text GLabel 5375 4050 0    50   Input ~ 0
+Text GLabel 5375 4050 0    50   Output ~ 0
 ENB
 Text GLabel 3900 5100 2    50   Input ~ 0
 IN1
-Text GLabel 5375 4250 0    50   Input ~ 0
+Text GLabel 5375 4250 0    50   Output ~ 0
 IN1
 Text GLabel 3900 5200 2    50   Input ~ 0
 IN2
-Text GLabel 5375 4350 0    50   Input ~ 0
+Text GLabel 5375 4350 0    50   Output ~ 0
 IN2
 Text GLabel 3900 5300 2    50   Input ~ 0
 IN3
-Text GLabel 5375 4450 0    50   Input ~ 0
+Text GLabel 5375 4450 0    50   Output ~ 0
 IN3
 Text GLabel 3900 5400 2    50   Input ~ 0
 IN4
-Text GLabel 5375 4650 0    50   Input ~ 0
+Text GLabel 5375 4650 0    50   Output ~ 0
 IN4
 Text Notes 3475 4275 0    50   ~ 0
 Left B
-Text GLabel 3925 3300 2    50   Input ~ 0
+Text GLabel 3925 3300 2    50   Output ~ 0
 RIghtA
-Text GLabel 3925 3400 2    50   Input ~ 0
+Text GLabel 3925 3400 2    50   Output ~ 0
 RightB
-Text GLabel 3925 4150 2    50   Input ~ 0
+Text GLabel 3925 4150 2    50   Output ~ 0
 LeftA
-Text GLabel 3925 4250 2    50   Input ~ 0
+Text GLabel 3925 4250 2    50   Output ~ 0
 LeftB
 NoConn ~ 6375 4050
 NoConn ~ 6375 4150
@@ -387,4 +385,6 @@ Wire Notes Line
 Wire Notes Line
 	2900 3825 1425 3825
 NoConn ~ 5975 3050
+Text GLabel 6375 4450 2    50   BiDi ~ 0
+SDA
 $EndSCHEMATC
