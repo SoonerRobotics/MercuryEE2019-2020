@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 64600001003)(type Legacy)(uri "C:/Users/gtjme/OneDrive/Documents/KiCad Projects and Libraries/Libraries/Fuse 64600001003 Library/64600001003.mod")(options "")(descr ""))
+  (lib (name ProjectLibrary)(type KiCad)(uri ${KIPRJMOD}/ProjectLibrary.pretty)(options "")(descr ""))
+)
