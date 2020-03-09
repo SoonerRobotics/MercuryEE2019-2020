@@ -294,8 +294,6 @@ Text GLabel 5375 4350 0    50   Output ~ 0
 IN2
 Text GLabel 3750 5925 2    50   Input ~ 0
 IN3
-Text GLabel 5375 4450 0    50   Output ~ 0
-IN3
 Text GLabel 3750 6025 2    50   Input ~ 0
 IN4
 Text GLabel 5375 4650 0    50   Output ~ 0
@@ -489,8 +487,6 @@ Text GLabel 3825 2175 2    50   BiDi ~ 0
 SERV1
 Text GLabel 3825 2900 2    50   BiDi ~ 0
 SERV2
-Text GLabel 5375 4750 0    50   BiDi ~ 0
-SERV2
 Text GLabel 5375 4550 0    50   BiDi ~ 0
 SERV1
 Text Notes 3400 3125 0    50   ~ 0
@@ -515,4 +511,8 @@ Wire Notes Line
 	2800 2700 1275 2700
 Wire Notes Line
 	1275 2700 1275 2425
+Text GLabel 5375 4450 0    50   BiDi ~ 0
+SERV2
+Text GLabel 5375 4750 0    50   Output ~ 0
+IN3
 $EndSCHEMATC
